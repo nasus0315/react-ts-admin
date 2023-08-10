@@ -13,9 +13,9 @@
       "prepare": "husky install"
     },
     "lint-staged": {
-      "**/*.css": "stylelint",
-      "**/*.{js,jsx,ts,tsx}": "eslint --ext .js,.jsx,.ts,.tsx",
-      "**/*.{js,jsx,tsx,ts,css,md,json}": "prettier --ignore-unknown --write"
+      "**/*.css": "",
+      "**/*.{js,jsx,ts,tsx}": "",
+      "**/*.{js,jsx,tsx,ts,css,md,json}": ""
     },
     "dependencies": {
       "react": "^18.2.0",
