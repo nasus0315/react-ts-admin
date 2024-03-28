@@ -1,6 +1,6 @@
 > React + TS + Eslint + Stylelint + Prettier + lint-staged + Husky 项目模板，项目用了 vite 快速创建，换做其他脚手架也可。
 
-## 安装 eslint
+## 安装 eslint    aaa
 
 安装执行`yarn add --dev eslint`
 
